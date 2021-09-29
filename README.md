@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jjaverhaeren
-- 👀 I’m interested in a job as junior front-end developper (Javascript, React)
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on any nice project to further deepen JS skills.
+
 - 📫 How to reach me: jjaverhaeren@gmail.com
 
 <!---
